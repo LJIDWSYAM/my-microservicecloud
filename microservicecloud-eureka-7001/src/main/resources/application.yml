@@ -22,3 +22,5 @@ eureka:
 #    能提供服务的地址（包括自己），集群的eureka
     service-url:
       defaultZone: http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+
+#  http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
